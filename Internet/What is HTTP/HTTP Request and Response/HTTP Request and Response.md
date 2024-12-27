@@ -4,7 +4,7 @@ The requesting computer, called the "client," asks another computer, known as th
 
 ---
 
-<img src="http.png" alt="HTTP Request and Response"/>
+<img src="img/http.png" alt="HTTP Request and Response" width="500" height="200"/>
 
 ---
 
@@ -31,6 +31,35 @@ Each protocol is chosen based on the type of communication and the required leve
 
 ---
 
+## Understanding Front-End and Back-End in Software Development
+
+**Front-End** is the part of an application that users interact with directly. It’s what you see on the screen, like buttons, text, images, forms, and overall design. It’s built using technologies like:
+
+- **HTML**: Defines the structure of a webpage (e.g., headings, paragraphs, links).
+- **CSS**: Styles the page, controlling colors, fonts, and layout.
+- **JavaScript**: Adds interactivity, like animations or dynamic content updates.
+
+Think of the front-end as the "face" of the application that users experience.
+
+**Back-End** is the "behind-the-scenes" part of the application. It handles the logic, database interactions, and server-side processes that make the front-end work. It’s responsible for storing, processing, and managing data. Common back-end technologies include:
+
+- **Programming Languages**: Java, Python, Node.js, etc.
+- **Databases**: MySQL, PostgreSQL, MongoDB.
+- **APIs**: Connect the front-end to the back-end to exchange information.
+
+The back-end is like the engine of a car—it powers everything but isn’t visible to the user.
+
+In simple terms:
+
+```
+    Front-end: What the user sees and interacts with.
+    Back-end: The logic and data management that supports the front-end.
+```
+
+<img src="img/frontBack.jpeg" alt="Front And Back" width="600" height="400"/>
+
+---
+
 **Some Questions 🤔**
 
 - Which comes first?
@@ -48,5 +77,15 @@ Each protocol is chosen based on the type of communication and the required leve
 - HTTP is the only protocol that uses URLs
     1. True
     2. False
+
+- The 'front-end' of a website is...
+    1. Web Client
+    2. Web Server
+
+- A smartphone is often used as an...
+    1. HTTP Server
+    2. HTTP Client
+
 ---
+
 I hope you picked the correct answer! 😎
